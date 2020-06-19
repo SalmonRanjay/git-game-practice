@@ -1,2 +1,2 @@
 # git-game-practice
-Git Practice 
+Playing With Vim for Practice 
